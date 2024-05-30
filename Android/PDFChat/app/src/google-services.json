@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628149521355",
+    "project_id": "pdfchat-c820c",
+    "storage_bucket": "pdfchat-c820c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628149521355:android:6699fb020eedb60dc5044e",
+        "android_client_info": {
+          "package_name": "com.example.pdfchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ74h3C_isk-aCYvDC4HrGNMYbD_XDEdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
